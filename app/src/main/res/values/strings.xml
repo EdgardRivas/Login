@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Login+</string>
+
+    <!--Login-->
+    <string name="mobile_network">Connected via mobile</string>
+    <string name="wifi_network">Connected via Wi-Fi</string>
+    <string name="no_network">You must be connected to network</string>
+    <string name="open_network_settings">Open network settings</string>
+    <string name="mail">Mail</string>
+    <string name="password">Password</string>
+    <string name="remember">Remember me</string>
+    <string name="login">Sign in</string>
+    <string name="logout">Log out</string>
+    <string name="loading">Loading</string>
+    <string name="welcome">Welcome</string>
+    <string name="required">This field is required</string>
+    <string name="error_login">Mail or password incorrect</string>
+    <string name="eMail">This mail address is invalid</string>
+    <string name="ePass">This password is too short</string>
+    <string name="egLogin">Can not login into your account</string>
+    <string name="revoke">Revoke</string>
+
+    <string name="not_close_session">No se pudo cerrar sesión</string>
+    <string name="not_revoke">No se pudo revocar el acceso</string>
+</resources>

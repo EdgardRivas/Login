@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "85692426697",
+    "firebase_url": "https://nebula-1537888038016.firebaseio.com",
+    "project_id": "nebula-1537888038016",
+    "storage_bucket": "nebula-1537888038016.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:85692426697:android:5279927aacd0e521",
+        "android_client_info": {
+          "package_name": "com.capillasmemoriales.informatica.login"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "85692426697-6lbe2p2boi896kmac0ucmd9ss3b8nndv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.capillasmemoriales.informatica.login",
+            "certificate_hash": "aa427af93a00dc77410eff5e466fb8bbed17e550"
+          }
+        },
+        {
+          "client_id": "85692426697-d3oif9hb1h2nlm2n457pslh4tlh7i3nk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBsEYoKSjxjuJfZcSoU2p1pN_t8gQ8h3RU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "85692426697-d3oif9hb1h2nlm2n457pslh4tlh7i3nk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
